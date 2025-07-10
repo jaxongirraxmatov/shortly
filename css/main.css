@@ -385,11 +385,11 @@ body {
     }
 
     .hero-image {
-        order: -1;
+        order: 1;
     }
 
     .hero-image img {
-        height: 250px;
+        height: 15.625rem;
     }
 
     .stats-header h2 {
