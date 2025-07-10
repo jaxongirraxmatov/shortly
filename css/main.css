@@ -20,6 +20,10 @@ body {
     z-index: 1000;
 }
 
+.logo-link {
+    text-decoration: none
+}
+
 .nav-container {
     max-width: 1100px;
     margin: 0 auto;
@@ -332,6 +336,19 @@ body {
 
 .footer-social a:hover {
     color: #2acfcf;
+}
+
+.logo-link h2:hover {
+    color: #2acfcf;
+}
+
+.footer-logo-link h3:hover {
+    color: #2acfcf;
+}
+
+.footer-logo-link {
+    display: inline-block;
+    text-decoration: none;
 }
 
 @media screen and (max-width: 768px) {
